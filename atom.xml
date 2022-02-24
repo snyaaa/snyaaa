@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hello 小翁</title>
+  <title>小翁的Blog</title>
   
+  <subtitle>开心就好</subtitle>
+  <link href="https://baidu.com/atom.xml" rel="self"/>
   
-  <link href="http://example.com/atom.xml" rel="self"/>
-  
-  <link href="http://example.com/"/>
+  <link href="https://baidu.com/"/>
   <updated>2022-02-23T15:19:19.216Z</updated>
-  <id>http://example.com/</id>
+  <id>https://baidu.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>小翁</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>前端 hexo菜鸟教程</title>
-    <link href="http://example.com/2022/02/23/first-article/"/>
-    <id>http://example.com/2022/02/23/first-article/</id>
+    <link href="https://baidu.com/2022/02/23/first-article/"/>
+    <id>https://baidu.com/2022/02/23/first-article/</id>
     <published>2022-02-23T14:42:54.000Z</published>
     <updated>2022-02-23T15:19:19.216Z</updated>
     
@@ -34,14 +34,14 @@
     
     
     
-    <category term="小翁的Blog" scheme="http://example.com/tags/%E5%B0%8F%E7%BF%81%E7%9A%84Blog/"/>
+    <category term="小翁的Blog" scheme="https://baidu.com/tags/%E5%B0%8F%E7%BF%81%E7%9A%84Blog/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2022/02/23/hello-world/"/>
-    <id>http://example.com/2022/02/23/hello-world/</id>
+    <link href="https://baidu.com/2022/02/23/hello-world/"/>
+    <id>https://baidu.com/2022/02/23/hello-world/</id>
     <published>2022-02-23T14:02:17.162Z</published>
     <updated>2022-02-23T14:02:17.162Z</updated>
     
